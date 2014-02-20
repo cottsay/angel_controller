@@ -1,0 +1,5 @@
+<library path="lib/libangel_controller_nodelet">
+  <class name="angel_controller/angel_controller_nodelet" type="angel_controller::angel_controller_nodelet" base_class_type="nodelet::Nodelet">
+    <description>Base controller for the iRobot Create</description>
+  </class>
+</library>
